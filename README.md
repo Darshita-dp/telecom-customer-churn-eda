@@ -80,9 +80,9 @@ Customers with low tenure, high monthly charges, month-to-month contracts, and m
 
 telecom-customer-churn-eda/
 │
-├── churn_analysis.ipynb
+├── telecom_churn_analysis.ipynb
 ├── data/
-│ └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│ └── Telco-Customer-Churn.csv
 ├── images/
 │ └── churn_distribution.png
 ├── README.md
