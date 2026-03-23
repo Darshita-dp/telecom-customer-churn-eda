@@ -99,11 +99,10 @@ telecom-customer-churn-eda/
 git clone https://github.com/Darshita-dp/telecom-customer-churn-eda.git
 
 ```
-2. Navigate to the project
+2. Navigate to the project: 
 cd telecom-customer-churn-eda
 
 3. Open Jupyter Notebook
-jupyter notebook
 
 ## 📈 Future Improvements
 
