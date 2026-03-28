@@ -51,7 +51,7 @@ The goal is to analyze customer behavior and answer:
 ![Churn Distribution](images/churn_by_contract.png)
 
 ### Churn Correlation Heatmap
-![Churn Score](images/heatmap.png)
+![Churn Heatmap](images/heatmap.png)
 
 ---
 
