@@ -1,0 +1,12 @@
+Feature,Coefficient
+TotalCharges,0.7597500987249488
+InternetService_Fiber optic,0.473618517856094
+PaymentMethod_Electronic check,0.18141844184861028
+SeniorCitizen,0.1425065140304974
+PaymentMethod_Mailed check,-0.05159224726556533
+PaymentMethod_Credit card (automatic),-0.05187979417889531
+MonthlyCharges,-0.09436328510916635
+Contract_One year,-0.35289936078001705
+InternetService_No,-0.36033219504882696
+Contract_Two year,-0.6677541198843776
+tenure,-1.4587728891755378
