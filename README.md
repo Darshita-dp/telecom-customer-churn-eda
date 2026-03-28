@@ -38,20 +38,30 @@ The goal is to analyze customer behavior and answer:
 
 ---
 
-## 📊 Sample Visualizations
+## 📊 Key Visual Insights
 
-
-### Churn Risk Score
-![Churn Score](images/churn_score.png)
-
-### Churn by Tenure
-![Churn by Tenure](images/churn_by_tenure.png)
-
-### Churn by Contract
-![Churn Distribution](images/churn_by_contract.png)
-
-### Churn Correlation Heatmap
-![Churn Heatmap](images/Heatmap.png)
+<table>
+  <tr>
+    <td align="center">
+      <b>Churn Risk Score</b><br>
+      <img src="images/churn_score.png" width="400"/>
+    </td>
+    <td align="center">
+      <b>Churn by Tenure</b><br>
+      <img src="images/churn_by_tenure.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Churn by Contract</b><br>
+      <img src="images/churn_by_contract.png" width="400"/>
+    </td>
+    <td align="center">
+      <b>Correlation Heatmap</b><br>
+      <img src="images/Heatmap.png" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
