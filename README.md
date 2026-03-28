@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis (EDA) & Prediction System
+# Telecom Customer Churn Analysis & Prediction System
 
 ## 📌 Project Overview
 
@@ -47,7 +47,7 @@ The goal is to analyze customer behavior and answer:
 ### Churn by Tenure
 ![Churn by Tenure](images/churn_by_tenure.png)
 
-### Churn Contract
+### Churn by Contract
 ![Churn Distribution](images/churn_by_contract.png)
 
 ### Churn Correlation Heatmap
@@ -143,8 +143,7 @@ A rule-based churn scoring system was created using:
 telecom-customer-churn-eda/
 │
 ├── telecom_churn_analysis.ipynb
-├── data/
-│ └── Telco-Customer-Churn.csv
+|
 ├── data/
 │ └── Telco-Customer-Churn.csv
 │
